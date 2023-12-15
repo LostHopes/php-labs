@@ -1,0 +1,21 @@
+#title,
+#back{
+  text-align: center;
+}
+
+#back{
+    padding: 50px;
+}
+
+#back > a{
+    color: black;
+    text-decoration: none;
+}
+
+.update > input {
+  display: block;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}

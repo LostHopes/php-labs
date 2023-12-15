@@ -1,0 +1,30 @@
+.product {
+  text-align: center;
+}
+
+.name > a {
+  text-decoration: none;
+  color: black;
+}
+
+.product {
+  background: #f35728c4;
+  width: auto;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  padding: 50px;
+  border-radius: 50px;
+}
+
+.item {
+  border: 1px solid;
+}
+
+#title{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

@@ -1,0 +1,5 @@
+a Defines a hyperlink
+p Defines a paragraph
+img Defines an image
+ul Defines an unordered list
+li Defines a list item

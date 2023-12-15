@@ -1,0 +1,21 @@
+.print > input[type="text"],
+.print > textarea {
+  display: block;
+  text-align: center;
+}
+
+.print > input[type="text"],
+.print > textarea {
+  width: 50%;
+  height: 100px;
+}
+
+.print > input[type="submit"] {
+  width: 3fr;
+  height: 3fr;
+}
+
+.print > input,
+.print > textarea {
+  margin: 30px;
+}

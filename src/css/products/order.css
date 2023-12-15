@@ -1,0 +1,9 @@
+#title,
+#back{
+  text-align: center;
+}
+
+#back > a{
+    text-decoration: none;
+    color: black;
+}

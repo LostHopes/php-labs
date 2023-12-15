@@ -1,0 +1,46 @@
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 2.5vh;
+  background: #eb4b60;
+  color: aliceblue;
+}
+
+.guest {
+  color: rgb(126, 12, 12);
+}
+
+.body {
+}
+.container {
+}
+.info {
+  padding: 10vh;
+}
+.links {
+  display: block;
+  text-align: center;
+  text-align: right;
+  margin-right: 10vh;
+}
+
+.links > a {
+  margin-left: 3vw;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.products > div > * {
+  display: block;
+  margin: 5vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.products > div {
+  margin: 3vw;
+  text-align: center;
+  align-items: center;
+}
